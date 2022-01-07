@@ -1,0 +1,17 @@
+# Project exclude paths
+/target/
+
+.idea/
+servers/
+*.gz
+*.log
+*.ini
+*.jar
+*.json
+*.properties
+*.txt
+*.zip
+*.dat
+*.dat_old
+*.dat_older
+*.mca
