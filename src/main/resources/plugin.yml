@@ -1,0 +1,6 @@
+name: MarioPluginWaterDog
+main: de.mariocst.wdpe.MarioMain
+version: 1.0
+api: 1.0.0
+author: marioCST
+description: MarioPlugin for WaterDogPE
